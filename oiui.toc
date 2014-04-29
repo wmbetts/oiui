@@ -2,6 +2,5 @@
 ## Author: Ibbarlive - Moonrunner
 ## Title: OIui
 ## Notes: The UI I use as a healer, but should work for any class.
-
-
-core/bars/bar1.lua
+## RequiredDeps: oiSlashCommands
+g
